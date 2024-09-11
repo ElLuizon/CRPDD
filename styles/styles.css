@@ -1,0 +1,14 @@
+*{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: solid red;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
